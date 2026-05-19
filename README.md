@@ -1,5 +1,5 @@
-# Trabajo-Final-Deep-learning-Master-
-En este repositorio tengo el trabajo final de la asignatura Deep Learning del Master en Ciencia de datos de la UNAV
+# Predicting the treated state after CRISPR gene perturbations
+En este repositorio tengo el trabajo final de la asignatura Deep Learning del Master en Ciencia de datos de la UNAV. Contiene el desarrollo y los resultados del Trabajo Final orientado a predecir el estado celular y los perfiles de expresión tras perturbaciones genéticas mediante CRISPR. Utilizando arquitecturas avanzadas de Deep Learning (incluyendo modelos de difusión y procesamiento de datos latentes), el proyecto aborda el desafío de modelar sistemáticamente las respuestas celulares a nivel genómico. El pipeline abarca desde el procesamiento de índices genéticos y escalado latente hasta el entrenamiento de modelos generativos capaces de inferir con precisión los efectos fenotípicos de la edición genética.
 
 En los 4 PDFs están los colabs que he utilizado para realizar el trabajo. 
 
